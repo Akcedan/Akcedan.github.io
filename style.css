@@ -8,4 +8,8 @@
   p {
     font-family: 'Caveat', cursive;
   }
+  aside {
+	  width: 200px;
+	  background-position: right;
+  }
 }
