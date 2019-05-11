@@ -1,0 +1,11 @@
+@media all and (min-width: 720px) { 
+	body {
+		background-position: center;
+	}
+	h1, h2, h3 {
+    font-family: 'Pacifico', cursive;
+  }
+  p {
+    font-family: 'Caveat', cursive;
+  }
+}
