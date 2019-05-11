@@ -14,7 +14,7 @@
 	  width: 200px;
 	  position: absolute; /* Абсолютное позиционирование */
 	  right: 15px; /* Положение от правого края */
-	  background-color: #eee;
+	  background-color: #C0C0C0;
 	  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	  border-radius: 7px;
   }
